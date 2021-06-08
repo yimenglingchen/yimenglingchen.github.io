@@ -1,18 +1,20 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: 希罗卡, 小卡,郝晓飞
+description: 畅游代码的世界
+keywords: 逸梦灵尘, 逸梦, 灵尘, 周宇鹏, zhouyupeng
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是希罗卡，相信程序的力量。
+一双手敲一键盘
 
-仰慕「优雅编码的艺术」。
+字符茫茫映眼前
 
-坚信熟能生巧，努力改变人生。
+缤纷世界自此始
+
+且看数据化万千
 
 ## 联系
 

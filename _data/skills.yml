@@ -1,0 +1,23 @@
+- name: Software Engineer Keywords
+  keywords:
+      - Java
+      - Design Patterns
+      - spring
+      - mybatis
+      - spring cloud
+
+- name: CICD Developer Keywords
+  keywords:
+      - docker
+      - kubernetes
+      - helm
+      - jenkins
+      - maven
+      - git
+      - gradle
+      - npm
+      - yarm
+      - jmeter
+      - postman
+      - shell
+      - ssh

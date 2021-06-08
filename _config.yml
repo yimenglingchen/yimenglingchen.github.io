@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://superhxf.github.io
+url: https://yimenglingchen.github.io/
 date_format: "ordinal"
 title: 希罗卡
-subtitle: "代码改变人生"
-description: "希罗卡的个人博客"
-keywords: 希罗卡, 小卡, 郝晓飞,haoxiaofei
+subtitle: "云锁高峰水自流"
+description: "逸梦灵尘的个人博客"
+keywords: 逸梦灵尘, 逸梦, 灵尘, 周宇鹏, zhouyupeng
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: superhxf
+author: yimenglingchen
 organization: 
 organization_url: 
-github_username: superhxf
+github_username: yimenglingchen
 location: shanghai, China
-email: 13466481949@163.com
+email: 15124681062@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -34,9 +34,9 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
   -
     href: /wiki/
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: superhxf/superhxf.github.io
+repository: yimenglingchen/yimenglingchen.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,14 +95,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: yimenglingchen
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: yimenglingchen
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709

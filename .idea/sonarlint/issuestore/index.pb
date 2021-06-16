@@ -3,12 +3,6 @@ H
 _layouts/categories.html,8\9\893c257b0699e22a049ecb9e41605b8e6fd3bc15
 C
 pages/categories.md,a\5\a5b8ce60e4f6ff9546dcb7b28ba6c4e4defb8952
-@
-_data/social.yml,c\f\cf98f015a18754fcc8d19da415bc0845f496b386
-@
-_data/skills.yml,6\9\69fee63412850bd4cf01c745a332e5119cf0d1a6
-?
-_data/links.yml,4\f\4ff2c53888121686f64d4711b738c64915f1fd0d
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 \

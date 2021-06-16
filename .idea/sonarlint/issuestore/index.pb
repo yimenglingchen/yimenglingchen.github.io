@@ -1,8 +1,6 @@
 
 H
 _layouts/categories.html,8\9\893c257b0699e22a049ecb9e41605b8e6fd3bc15
-C
-pages/categories.md,a\5\a5b8ce60e4f6ff9546dcb7b28ba6c4e4defb8952
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 \

@@ -24,5 +24,3 @@ C
 pages/wiki.md,5\c\5c2f2ec7dae61c4a33489add14809dec322c45d8
 <
 pages/404.md,a\5\a57e15ecf88d9e0878b499e0ca335252d7f32c61
-;
-_config.yml,c\d\cd089ae45ce870c45e434019e8f1ed4f066cd425

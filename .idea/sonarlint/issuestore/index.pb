@@ -16,3 +16,7 @@ H
 pages/wiki.md,5\c\5c2f2ec7dae61c4a33489add14809dec322c45d8
 <
 pages/404.md,a\5\a57e15ecf88d9e0878b499e0ca335252d7f32c61
+`
+0_posts/2021-06-21-设计模式之单例模式.md,6\6\66b3a1d9a44026828baad167c84bec8199f845bb
+f
+6_posts/2021-06-23-设计模式之工厂方法模式.md,a\3\a3444b8a38bfb0906a11064086bf0b848b76d53c

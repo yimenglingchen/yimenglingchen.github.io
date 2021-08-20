@@ -4,7 +4,7 @@ layout: post
 
 title:  maven项目迁移到gradle流程
 
-tag: 设计模式
+tag: gradle
 
 ---
 

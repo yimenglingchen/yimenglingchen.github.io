@@ -102,7 +102,7 @@ apply plugin: 'org.springframework.boot'
 
 刷新后，gradle执行时会出现对应的执行事务，执行bootJar即可打包成功。
 
-![alt GRADLE_HOME配置](/images/posts/maven项目迁移到gradle流程/boot.png)
+![boot](/images/posts/maven项目迁移到gradle流程/boot.png)
 
 ## 4 小结
 

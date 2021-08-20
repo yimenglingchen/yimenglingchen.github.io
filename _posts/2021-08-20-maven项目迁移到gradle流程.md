@@ -104,6 +104,8 @@ apply plugin: 'org.springframework.boot'
 
 ![alt boot](/images/posts/maven项目迁移到gradle流程/boot.png)
 
+---
+
 ## 4 小结
 
 因为刚刚开始接触gradle，还不清楚gradle和maven相比有哪些优势，目前能够确定的只有配置中，不需要大量的xml，看起来更加清爽简洁外，其余的优势暂未发现。在后续的学习过程里，我还会继续研究它和maven的优劣。
